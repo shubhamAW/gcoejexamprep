@@ -52,12 +52,26 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'computer',
+        path: 'computer',
+        routeBasePath: 'computer',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+      },
+      
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-       hideOnScroll: true,
+      hideOnScroll: true,
         title: 'GCOEJ-EXAM-PREP',
         logo: {
           alt: 'My Site Logo',
@@ -69,6 +83,12 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            to:'/computer/intro',
+            position:'left',
+            label:'Computer',
+            activeBaseRegex:`/computer/`,
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
