@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: intro
 description: Page description
-image: https://i.imgur.com/mErPwqL.png
+
 ---
 
 # Intro
