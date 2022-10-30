@@ -1,10 +1,13 @@
 ---
 sidebar_position: 1
+title: intro
+description: Page description
+image: https://i.imgur.com/mErPwqL.png
 ---
 
 # Intro
 
-Here's an example document.
+Here's an example document
 
 .
 .
