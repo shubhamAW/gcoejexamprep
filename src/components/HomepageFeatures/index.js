@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Site was designed from the ground up to be <strong>easy to navigate</strong>  and 
+        easy to maintain and Diversify each department wise.
       </>
     ),
   },
@@ -18,18 +18,17 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Site focus on What Matter most in Examination, and Aggregate all resources at one place.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Community',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      GCOEJ EXAMP PREP powered by Community. It is <strong>manage , maintain and build</strong> by the help of 
+      community support. 
       </>
     ),
   },

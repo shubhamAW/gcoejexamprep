@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.svg',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -39,7 +39,7 @@ const config = {
           editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
            //showLastUpdateAuthor:true,
-           //showLastUpdateTime:true,
+          //showLastUpdateTime:true,
         },
         blog: {
           showReadingTime: true,
@@ -97,11 +97,11 @@ const config = {
            
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/shubhamAW/gcoejexamprep/',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/shubhamAW/gcoejexamprep/',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
