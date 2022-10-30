@@ -56,12 +56,29 @@ const config = {
     ],
   ],
   plugins: [
+    //for computer dept.
     [
       '@docusaurus/plugin-content-docs',
       {
         id: 'computer',
         path: 'computer',
         routeBasePath: 'computer',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        //showLastUpdateAuthor:true,
+        //showLastUpdateTime:true,
+      },
+      
+    ],
+    //for languages
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'Languages',
+        path: 'Languages',
+        routeBasePath: 'Languages',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
         editUrl:
@@ -96,6 +113,10 @@ const config = {
             activeBaseRegex:`/computer/`,
            
           },
+          // {
+          //   label:'Languages',
+          //   to:'/Languages/intro'
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/shubhamAW/gcoejexamprep/',
@@ -118,6 +139,7 @@ const config = {
                 label:'Computer',
                 to:'/computer/intro',
               },
+              
               {
                 label:'Entc',
                 to:'/computer/intro',
@@ -127,16 +149,28 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Languages',
             items: [
               
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/',
+                label: 'C language',
+                to:'Languages/category/c-language',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/',
+                label: 'c++ ',
+                to: 'Languages/category/cpp',
+              },
+              {
+                label:'java',
+                to:'Languages/category/java',
+              },
+              {
+                label:'python',
+                to:'Languages/category/python',
+              },
+              {
+                label:'java-script',
+                to:'Languages/category/javascript',
               },
             ],
           },
