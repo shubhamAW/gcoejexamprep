@@ -38,6 +38,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+            showLastUpdateAuthor:true,
+            showLastUpdateTime:true,
         },
         blog: {
           showReadingTime: true,
@@ -45,6 +47,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+           
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,6 +66,8 @@ const config = {
         // ... other options
         editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
       },
       
     ],
@@ -93,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/shubhamAW/gcoejexamprep/',
             label: 'GitHub',
             position: 'right',
           },
