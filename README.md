@@ -1,41 +1,13 @@
-# Website
+# GCOEJ EXAMP PREP
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# RUN LOCALLY 
+1. clone it from github<br>command: ```git clone https://github.com/shubhamAW/gcoejexamprep/```
+2. install dependencies <br> command : ```npm install ``` or ```yarn install```
+3. Start development server <br> command : ```npm start```
+4. head over to See output <br>```http://localhost:3000/``` 
 
-### Installation
+# contribute
+for contributing you can directly through github or by edit page button (at the end of every page ) on website
+[gcoejexamprep](https://gcoejexamprep-shubhamaw.vercel.app/)
 
-```
-$ yarn
-```
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
