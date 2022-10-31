@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Here's an example document.
 
-Edited
+Page Edited 
