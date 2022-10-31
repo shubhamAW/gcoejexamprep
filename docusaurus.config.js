@@ -38,8 +38,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
-           //showLastUpdateAuthor:true,
-          //showLastUpdateTime:true,
+           showLastUpdateAuthor:true,
+           showLastUpdateTime:true,
         },
         blog: {
           showReadingTime: true,
@@ -83,8 +83,8 @@ const config = {
         // ... other options
         editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
-        //showLastUpdateAuthor:true,
-        //showLastUpdateTime:true,
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
       },
       
     ],
@@ -99,8 +99,8 @@ const config = {
         // ... other options
         editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
-        //showLastUpdateAuthor:true,
-        //showLastUpdateTime:true,
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
       },
       
     ],
