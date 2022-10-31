@@ -67,8 +67,8 @@ const config = {
         // ... other options
         editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
-        //showLastUpdateAuthor:true,
-        //showLastUpdateTime:true,
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
       },
       
     ],
