@@ -88,6 +88,22 @@ const config = {
       },
       
     ],
+    //for Entc dept.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'Entc',
+        path: 'Entc',
+        routeBasePath: 'Entc',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        //showLastUpdateAuthor:true,
+        //showLastUpdateTime:true,
+      },
+      
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -129,7 +145,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'classes',
+            title: 'Classes',
             items: [
               {
                 label: 'Tutorial',
@@ -142,7 +158,7 @@ const config = {
               
               {
                 label:'Entc',
-                to:'/computer/intro',
+                to:'/Entc/intro',
               },
 
 
