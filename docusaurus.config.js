@@ -97,6 +97,7 @@ const config = {
         routeBasePath: 'Entc',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
+        
         editUrl:
             'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
         showLastUpdateAuthor:true,
@@ -108,9 +109,9 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'Data-structures',
-        path: 'data-structures',
-        routeBasePath: 'data-structures',
+        id: 'Data-Structures',
+        path: 'Data-Structures',
+        routeBasePath: 'Data-Structures',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
         editUrl:
