@@ -104,6 +104,22 @@ const config = {
       },
       
     ],
+    //for Data-structure Folder.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'Data-structures',
+        path: 'data-structures',
+        routeBasePath: 'data-structures',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -165,38 +181,27 @@ const config = {
             ],
           },
           {
-            title: 'Languages',
+            title: 'DSA',
             items: [
               
               {
-                label: 'C language',
-                to:'Languages/category/c-language',
+                label: 'Languages(c,c++..)',
+                to:'Languages/intro',
               },
               {
-                label: 'c++ ',
-                to: 'Languages/category/cpp',
+                label: 'Data-Structures',
+                to:'Data-Structures/intro',
               },
-              {
-                label:'java',
-                to:'Languages/category/java',
-              },
-              {
-                label:'python',
-                to:'Languages/category/python',
-              },
-              {
-                label:'java-script',
-                to:'Languages/category/javascript',
-              },
+              
             ],
           },
           {
-            title: 'More',
+            title: 'Development',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/shubhamAW/gcoejexamprep/',
