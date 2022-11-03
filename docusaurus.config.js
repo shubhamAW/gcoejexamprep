@@ -146,11 +146,22 @@ const config = {
             activeBaseRegex:`/computer/`,
            
           },
+
+          {
+            to:'/Entc/intro',
+            position:'left',
+            label:'Entc',
+            activeBaseRegex:`/Entc/`,
+           
+          },
+
           // {
           //   label:'Languages',
           //   to:'/Languages/intro'
           // },
+
           //{to: '/blog', label: 'Blog', position: 'left'},
+
           // {
           //   href: 'https://github.com/shubhamAW/gcoejexamprep/',
           //   label: 'GitHub',
