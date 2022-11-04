@@ -10,4 +10,11 @@
 for contributing you can directly through github or by edit page button (at the end of every page ) on website
 [gcoejexamprep](https://gcoejexamprep-shubhamaw.vercel.app/)
 
+## steps 
+1. fork repository
+2. get locally using above method of (RUN LOCALLY) 
+3. make contribution according to your area of interest subject.
+4. push it your github repository .
+5. create pull request from github.
 
+### If you find confusing above then checkout youtube video.
