@@ -1,50 +1,7 @@
 ---
 sidebar_position: 1
-title: intro
-description: Page description
-
 ---
 
-# Intro
+# intro
 
-Please change name according to the content of page..
-.
-.
-.
-.
-
-
-
-..
-
-
-..
-
-
-
-
-...
-
-
-
-
-
-...
-
-
-
-
-
-...
-
-
-
-
-
-# this another
-=======
-
-
-
-
-update on 31/10/2022
+Here's an example document.
