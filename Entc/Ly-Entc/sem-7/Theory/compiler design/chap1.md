@@ -11,8 +11,18 @@ some changes done through the github
 ## topic 1 
 descrition 
 
-```js
-code 
+```html
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello World!";
+</script>
+
+</body>
+</html>
 ```
 ## topic 2
 description 
