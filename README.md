@@ -17,4 +17,4 @@ for contributing you can directly through github or by edit page button (at the 
 4. push it your github repository .
 5. create pull request from github.
 
-### If you find confusing above then checkout youtube video.
+
