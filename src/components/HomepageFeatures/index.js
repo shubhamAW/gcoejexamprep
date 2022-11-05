@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_easy.svg').default,
     description: (
       <>
         Site was designed from the ground up to be <strong>easy to navigate</strong>  and 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_focusnew.svg').default,
     description: (
       <>
         Site focus on What Matter most in Examination, and Aggregate all resources at one place.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Powered by Community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_community.svg').default,
     description: (
       <>
       GCOEJ EXAMP PREP powered by Community. It is <strong>manage , maintain and build</strong> by the help of 
