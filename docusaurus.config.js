@@ -121,6 +121,23 @@ const config = {
       },
       
     ],
+    //for gitand github.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'git-github',
+        path: 'git-github',
+        routeBasePath: 'git-github',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -221,6 +238,10 @@ const config = {
               //   label: 'Blog',
               //   to: '/blog',
               // },
+              {
+                label: 'Git& GitHub',
+                to:'git-github/intro',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/shubhamAW/gcoejexamprep/',
