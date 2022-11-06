@@ -150,7 +150,7 @@ if you don't understand the code.
 - Experiment with things freely and don't fear mistakes.
 - Error messages are our friends.
 - Let me know if you have trouble with this tutorial.
-- Now we're ready to [install Python](installing-python.md) and
+- Now we're ready to [install Python](Installing-Python.md) and
   [get started](getting-started.md)!
 
 ---
