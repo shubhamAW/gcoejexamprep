@@ -1,6 +1,6 @@
 # Getting started with Python
 
-[Launch Python](installing-python.md).
+[Launch Python](Installing-Python.md).
 
 The `>>>` means that Python is ready and we can enter a command. The
 basic idea is really simple: we enter a command, press Enter, enter
