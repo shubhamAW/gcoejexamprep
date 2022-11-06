@@ -21,6 +21,7 @@ function HomepageHeader() {
             Get Started 🏃‍♂️
           </Link>
         </div>
+        
       </div>
     </header>
   );
