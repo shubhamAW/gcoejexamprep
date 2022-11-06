@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Lists and tuples
 
 ## Why should we use lists?

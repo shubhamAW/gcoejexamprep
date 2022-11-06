@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Installing Python
 
 If you want to learn to program with Python using this tutorial, you
