@@ -33,6 +33,7 @@ With Git, you can **revert to various states** of your files (like a *time trave
 :::
 
 ## Real Life Example 
+
 For example, you could be working on a website's landing page and discover that you do not like the navigation bar. But at the same time, you might not want to start altering its components because it might get worse.
 
 With **Git**, you can **create an identical copy of that file and play around** with the navigation bar. Then, when you are satisfied with your changes, you can merge the copy to the original file.
@@ -59,3 +60,4 @@ git config --global user.email "YOUR_EMAIL"
 
 Just make sure to replace "YOUR_USERNAME" and "YOUR_EMAIL" with the values you choose.
 
+---
