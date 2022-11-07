@@ -121,13 +121,13 @@ const config = {
       },
       
     ],
-    //for gitand github.
+    //for git and github.
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'git-github',
-        path: 'git-github',
-        routeBasePath: 'git-github',
+        id: 'git-Github',
+        path: 'git-Github',
+        routeBasePath: 'git-Github',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
         

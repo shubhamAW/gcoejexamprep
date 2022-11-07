@@ -41,6 +41,7 @@ MY TO-DO LIST
 6. Apply for remote jobs
 
 ```
+
 Before we proceed with learning other Git commands, let's talk about **GitHub**.
 
 # What is Github?
