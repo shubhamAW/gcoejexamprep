@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# practical 2
+# practical 2 (A2)
 
-Here's an example document.
+view full pdf or download it : [Download this document](static/A2.pdf)
