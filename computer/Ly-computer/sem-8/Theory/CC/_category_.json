@@ -1,8 +1,8 @@
 {
-    "label": "CNS",
+    "label": "CC",
     "position": 1,
     "link": {
       "type": "generated-index",
-      "description": "Sy computer "
+      "description": "Cloud computing "
     }
   }
