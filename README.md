@@ -8,7 +8,9 @@
 
 # contribute
 for contributing you can directly through github or by edit page button (at the end of every page ) on website
-[gcoejexamprep](https://gcoejexamprep-shubhamaw.vercel.app/)
+[gcoejexamprep.vercel.app](https://gcoejexamprep-shubhamaw.vercel.app/)
+or 
+[gcoejexamprep.software](https://gcoejexamprep.software/)
 
 ## steps 
 1. fork repository
