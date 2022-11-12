@@ -22,11 +22,11 @@ sidebar_position: 1
 
 ### Instrumentation
 
-* **Second year instrumentation** : [Link](/instrumentation/category/selectrical)
+* **Second year instrumentation** : [Link](/Instrumentation/category/sy-instru)
 
-* **Third Year instrumentation** : [link](/instrumentation/category/telectrical)
+* **Third Year instrumentation** : [link](/instrumentation/category/ty-instru)
 
-* **Last Year instrumentation** : [link](/instrumentation/category/lelectrical)
+* **Last Year instrumentation** : [link](/instrumentation/category/ly-instru)
 
 ### Electrical
 

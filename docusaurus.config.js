@@ -10,7 +10,7 @@ const config = {
   tagline: 'making study easy',
   url: 'https://gcoejexamprep-shubhamaw.vercel.app/',
   baseUrl: '/',
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/engineering_team.svg',
 
