@@ -2,15 +2,58 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Go to your department 
 
-Let's discover **GCOEJ EXAMP PREP in less than 5 minutes**.
+### Computer
 
-## Getting Started
+* **Second year computer** : [Link](/computer/category/sy-computer)
+
+* **Third Year computer** : [link](/computer/category/ty-computer)
+
+* **Last Year computer** : [link](/computer/category/ly-computer)
+
+### Entc
+
+* **Second year Entc** : [Link](/Entc/category/sy-entc)
+
+* **Third Year Entc** : [link](/Entc/category/ty-entc)
+
+* **Last Year Entc** : [link](/Entc/category/ly-entc)
+
+### Instrumentation
+
+* **Second year instrumentation** : [Link](/instrumentation/category/selectrical)
+
+* **Third Year instrumentation** : [link](/instrumentation/category/telectrical)
+
+* **Last Year instrumentation** : [link](/instrumentation/category/lelectrical)
+
+### Electrical
+
+* **Second year electrical** : [Link](/electrical/category/sy-electrical)
+
+* **Third Year electrical** : [link](/electrical/category/ty-electrical)
+
+* **Last Year electrical** : [link](/electrical/category/ly-electrical)
+
+### civil
+
+* **Second year civil** : [Link](/civil/category/sy-civil)
+
+* **Third Year civil** : [link](/civil/category/ty-civil)
+
+* **Last Year civil** : [link](/civil/category/ly-civil)
+
+### mechanical
+
+* **Second year mechanical** : [Link](/mech/category/sy-mech)
+
+* **Third Year mechanical** : [link](/civil/category/ty-civil)
+
+* **Last Year mechanical** : [link](/mech/category/ly-mech)
 
 
-
-### What you'll need
+<!-- ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
@@ -45,4 +88,4 @@ The `cd` command changes the directory you're working with.
 
 The `npm start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->

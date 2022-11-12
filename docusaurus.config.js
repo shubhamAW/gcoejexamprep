@@ -139,6 +139,40 @@ const config = {
       },
       
     ],
+    //for civil dept.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'civil',
+        path: 'civil',
+        routeBasePath: 'civil',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
+    //for mech dept.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'mech',
+        path: 'mech',
+        routeBasePath: 'mech',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
     //for Data-structure Folder.
     [
       '@docusaurus/plugin-content-docs',
@@ -191,12 +225,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           {
             to:'/computer/intro',
             position:'left',
@@ -210,6 +244,34 @@ const config = {
             position:'left',
             label:'Entc',
             activeBaseRegex:`/Entc/`,
+           
+          },
+          {
+            to:'/electrical/intro',
+            position:'left',
+            label:'Electrical',
+            activeBaseRegex:`/electrical/`,
+           
+          },
+          {
+            to:'/Instrumentation/intro',
+            position:'left',
+            label:'Instru.',
+            activeBaseRegex:`/instrumentation/`,
+           
+          },
+          {
+            to:'/civil/intro',
+            position:'left',
+            label:'civil',
+            activeBaseRegex:`/civil/`,
+           
+          },
+          {
+            to:'/mech/intro',
+            position:'left',
+            label:'Mech.',
+            activeBaseRegex:`/mech/`,
            
           },
 

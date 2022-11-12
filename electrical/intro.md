@@ -4,4 +4,8 @@ sidebar_position: 1
 
 # intro
 
-Here's an example document.
+## go to respective class
+
+* **SY Electrical** : [link](category/sy-electrical)
+* **TY Electrical** : [link](category/ty-electrical)
+* **LY Electrical** : [link](category/ly-electrical)

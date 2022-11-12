@@ -7,46 +7,8 @@ description: Page description
 
 # Intro
 
-Here's an example document
+## go to respective class
 
-.
-.
-.
-.
-
-
-
-..
-
-
-..
-
-
-
-
-...
-
-
-
-
-
-...
-
-
-
-
-
-...
-
-
-
-
-
-# this another
-=======
-
-
-
-
-## This is editey by krushna sase
-update on 31/10/2022
+* **SY Computer** : [link](category/sy-computer)
+* **TY Computer** : [link](category/ty-computer)
+* **LY Computer** : [link](category/ly-computer)
