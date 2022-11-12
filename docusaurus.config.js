@@ -105,6 +105,40 @@ const config = {
       },
       
     ],
+    //for ele dept.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'electrical',
+        path: 'electrical',
+        routeBasePath: 'electrical',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
+    //for instrumentation dept.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'Instrumentation',
+        path: 'Instrumentation',
+        routeBasePath: 'Instrumentation',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+        
+        editUrl:
+            'https://github.com/shubhamAW/gcoejexamprep/tree/main/',
+        showLastUpdateAuthor:true,
+        showLastUpdateTime:true,
+      },
+      
+    ],
     //for Data-structure Folder.
     [
       '@docusaurus/plugin-content-docs',
@@ -212,6 +246,14 @@ const config = {
                 label:'Entc',
                 to:'/Entc/intro',
               },
+              {
+                label:'electrical',
+                to:'/electrical/intro',
+              },
+              {
+                label:'instru.',
+                to:'/Instrumentation/intro',
+              },
 
 
             ],
@@ -246,6 +288,20 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/shubhamAW/gcoejexamprep/',
               },
+            ],
+          },
+          {
+            title: 'Program',
+            items: [
+              {
+                label: 'Become a Contributor',
+                href:'https://forms.gle/WQQcAWM7qYobye1M6',
+              },
+              {
+                label: 'Contributors',
+                to: '/docs/intro',
+              },
+            
             ],
           },
         ],

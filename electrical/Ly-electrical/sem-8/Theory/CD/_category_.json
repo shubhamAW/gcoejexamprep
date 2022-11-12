@@ -1,0 +1,8 @@
+{
+    "label": "CD",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "compiler design - compulsory subject"
+    }
+  }
