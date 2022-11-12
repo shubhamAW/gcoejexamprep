@@ -5,7 +5,7 @@ description: Page description
 
 ---
 
-# Intro
+# Computer Department
 
 ## go to respective class
 

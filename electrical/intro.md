@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# intro
+# Electrical Department
 
 ## go to respective class
 

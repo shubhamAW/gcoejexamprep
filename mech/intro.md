@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Mechanical Department
 
 ## go to respective class
 

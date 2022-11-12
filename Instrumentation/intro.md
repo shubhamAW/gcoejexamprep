@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# intro
+# Instrumentation Department
 
 ## go to respective class
 

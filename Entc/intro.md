@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# intro
+# Entc Department
 
 ## go to respective class
 
