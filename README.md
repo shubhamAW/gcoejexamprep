@@ -19,6 +19,7 @@ or
 4. push it your github repository .
 5. create pull request from github.
 
+## contributors
 <a href="https://github.com/shubhamAW/gcoejexamprep/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shubhamAW/gcoejexamprep" />
 </a>
