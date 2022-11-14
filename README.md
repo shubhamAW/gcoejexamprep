@@ -20,6 +20,7 @@ or
 5. create pull request from github.
 
 ## contributors
+Thanks for Actively contributing this project ....
 <a href="https://github.com/shubhamAW/gcoejexamprep/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shubhamAW/gcoejexamprep" />
 </a>
