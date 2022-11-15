@@ -1,8 +1,8 @@
 {
-    "label": "Image processing Ip",
+    "label": "Industrial electrical system (IES)",
     "position": 4,
     "link": {
       "type": "generated-index",
-      "description": "Image processing "
+      "description": "Industrial electrical sytem "
     }
   }
