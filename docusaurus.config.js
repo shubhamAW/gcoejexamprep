@@ -360,20 +360,7 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Program',
-            items: [
-              {
-                label: 'Become a Contributor',
-                href:'https://forms.gle/WQQcAWM7qYobye1M6',
-              },
-              {
-                label: 'Contributors',
-                to: '/docs/intro',
-              },
-            
-            ],
-          },
+          
         ],
         copyright: `Made in ❤️ with GCOEJ.`,
       },
