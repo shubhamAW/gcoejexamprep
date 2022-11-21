@@ -4,4 +4,4 @@ sidebar_position: 3
 
 # practical 2
 
-Here's an example document.
+[Download this document](static/pr-2.pdf)

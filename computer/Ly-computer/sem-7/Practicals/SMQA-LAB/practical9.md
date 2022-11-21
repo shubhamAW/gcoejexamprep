@@ -4,4 +4,4 @@ sidebar_position: 10
 
 # practical 9
 
-Here's an example document.
+[Download this document](static/pr-9.pdf)
