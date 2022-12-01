@@ -130,3 +130,12 @@ PT1 = int(PT1, 2)
 RPT = binascii.unhexlify( '%x'% PT1)
 print("Retrieved Plain Text is: ", RPT)
 ```
+
+## To run 
+
+save this file with -> pr3.py (add your preference name)
+
+``` shell
+python pr3.py
+
+```

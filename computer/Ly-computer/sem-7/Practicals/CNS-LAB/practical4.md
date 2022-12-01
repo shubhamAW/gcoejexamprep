@@ -91,3 +91,12 @@ public class RSA
 ```
 
 ---
+
+## To run 
+
+save this file with name `pr4.java` .
+
+``` shell
+javac pr4.java
+java pr4
+```
