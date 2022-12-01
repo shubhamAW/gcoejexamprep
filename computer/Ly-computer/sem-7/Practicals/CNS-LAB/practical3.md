@@ -8,7 +8,7 @@ Aim : Design and implement a symmetric encryption algorithm based on Feistel str
 
 ## code 
 
-```
+``` python
 # Python program to demonstrate
 # Feistel Cipher Algorithm
 
