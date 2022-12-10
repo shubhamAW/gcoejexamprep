@@ -97,9 +97,9 @@ view full pdf or download it (reference pdf) : [Download this document](static/A
 
 ## Input file
 
-make another file `abc.c`.
+make another file `abcd.c`.
 
-abc.c
+abcd.c
 
 ```c
     #include<stdio.h>
@@ -119,18 +119,17 @@ abc.c
     }
 ```
 
+## Commands
+
+```
+gcc a1.c
+.\a.exe
+abcd.c
+```
+
 ## Output 
 
-screenshot
+![image](https://user-images.githubusercontent.com/104447097/206863354-2e305e92-8359-416f-8632-5580b82611ba.png)
 
-**please contribute next praticals as above**
-
-Q. How can we insert code in markdown?
-
-```c
-    ```c
-        //insert code here
-    ```
-```
 
 ---
