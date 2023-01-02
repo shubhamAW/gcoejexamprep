@@ -65,10 +65,11 @@ int main()
 
 ## to run 
 
+
+
 Save this as pr1.c
 
 ``` shell
 gcc pr1.c
 .\a.exe
 ```
-
