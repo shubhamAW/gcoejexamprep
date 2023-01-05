@@ -8,7 +8,7 @@ Aim :Implement DES and RSA Algorithms.
 
 ## code 
 
-``` java
+``` c
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.math.BigInteger;
