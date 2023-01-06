@@ -133,3 +133,15 @@ void explore()
 }
 
 ```
+
+make a file named `code.txt` and paste this code in it
+
+```c
+t1=b*c
+t2=d*f
+t3=t1+a
+t4=t3+t2
+t5=t4+g
+a=t5
+
+```

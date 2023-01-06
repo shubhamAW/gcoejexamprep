@@ -88,9 +88,5 @@ int main( )
 }
 
 ```
-## output 
 
-![Uploading image.png…](https://user-images.githubusercontent.com/66414385/211071197-bbcb32f6-8c91-4684-9d80-e871d6d69d45.png)
-
-
-
+## Output
