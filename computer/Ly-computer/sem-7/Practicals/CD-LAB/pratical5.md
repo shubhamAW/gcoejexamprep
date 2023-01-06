@@ -89,3 +89,9 @@ void follow(char a)
 }
 
 ```
+
+## output
+
+
+![Uploading image.png…](https://user-images.githubusercontent.com/66414385/211071826-f625e01c-7302-4a70-9899-1875b1ddbfe6.png)
+
