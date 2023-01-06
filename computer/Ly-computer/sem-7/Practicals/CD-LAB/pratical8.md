@@ -48,3 +48,7 @@ int main() {
 }
 
 ```
+
+## code 
+
+![Uploading image.png…](https://user-images.githubusercontent.com/66414385/211073312-cd8b4f02-49d1-47e1-9078-9cc7826b2a00.png)
