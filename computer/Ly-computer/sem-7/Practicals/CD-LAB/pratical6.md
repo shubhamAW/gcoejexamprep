@@ -112,3 +112,8 @@ int main()
 }
 
 ```
+
+## output 
+
+
+![Uploading image.png…](https://user-images.githubusercontent.com/66414385/211072073-54214a1c-0293-4185-b9d7-a1d9b8af846c.png)
