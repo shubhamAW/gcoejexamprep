@@ -97,3 +97,8 @@ void check() //function definition
 } 
 
 ```
+
+## code 
+
+
+![Uploading image.png…](https://user-images.githubusercontent.com/66414385/211073530-3f5853de-1cb5-4175-ac4f-5e199821a0c7.png)
