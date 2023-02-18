@@ -280,7 +280,7 @@ const config = {
           //   to:'/Languages/intro'
           // },
 
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Placement Blog', position: 'left'},
 
           // {
           //   href: 'https://github.com/shubhamAW/gcoejexamprep/',
